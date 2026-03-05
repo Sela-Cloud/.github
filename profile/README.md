@@ -57,6 +57,6 @@ Whether you are pushing a release or scaling overnight, our global 24/7 support 
 * **Website:** [selacloud.com](https://selacloud.com/)
 * **Blog & Insights:** [Read our latest posts](https://selagroup.com/blog)
 * **YouTube:** [Sela Cloud Videos](https://www.youtube.com/@selacloud/videos)
-* **Careers:** [We're Hiring!](https://selagroup.com/index.html) Join our global team of cloud engineers.
+* **Careers:** [We're Hiring!](https://selagroup.com/careers/) Join our global team of cloud engineers.
 
 > *"Cloud providers give you a powerful engine for your growth. Partnering with Sela provides ongoing technical and commercial add‑ons to that engine, maximizing its performance while reducing costs – So you can grow faster and efficiently."*
