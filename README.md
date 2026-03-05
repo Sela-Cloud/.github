@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://selacloud.com/assets/images/logo.png" alt="Sela Cloud Logo" width="300" />
+  <img src="profile/sela.svg" alt="Sela Cloud Logo" width="300" />
 </p>
 
 # Welcome to Sela's GitHub! ☁️🚀
